@@ -1,6 +1,6 @@
 <h2 style="font-size: 15px;">Go</h2>
 
-![Go s](https://github.com/user-attachments/assets/95fc257b-a9b4-4785-8158-26267a3b0630)
+![Go s](https://github.com/user-attachments/assets/97a3e4ff-2b23-420e-b6a5-2b4827c907bd)
 
 <br><br><br>
 

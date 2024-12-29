@@ -12,4 +12,4 @@
 
 <h2 style="font-size: 15px;">Rubik cube</h2>
 
-![Rubik s](https://github.com/user-attachments/assets/9ead1b96-ec57-4440-ae17-a2c12883147e)
+![Rubik s](https://github.com/user-attachments/assets/69e22872-898d-4bf3-b9b5-0f73898f0b79)
